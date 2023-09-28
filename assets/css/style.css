@@ -1,0 +1,40 @@
+/* IMPOSTAZIONI GENERALI */
+* {
+  box-sizing: border-box;
+}
+body {
+  padding: 20px;
+  font-family: "Poppins", sans-serif;
+}
+/* HEADER */
+header {
+  background-color: rgb(81, 142, 233);
+  padding: 40px 30px;
+  color: white;
+  text-align: center;
+}
+header img {
+  width: 240px;
+}
+.sottotitolo {
+  color: gray;
+}
+/* MAIN */
+main {
+  padding: 20px;
+}
+h1 {
+  padding: 10px;
+}
+p {
+  padding: 20px;
+}
+/* ELEMENTI NEL MAIN - ARTICLE */
+
+/* TABELLE */
+
+/* FORM */
+
+/* ELEMENTI NELL' ASIDE */
+
+/* FOOTER */
